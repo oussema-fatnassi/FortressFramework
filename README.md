@@ -73,4 +73,4 @@ The project was built entirely in **Valve Hammer Editor**, the official level cr
 
 ---
 
-*Oroitz Lago Ramos — 2026*
+*Oussema Fatnassi & Oroitz Lago Ramos — 2026*
